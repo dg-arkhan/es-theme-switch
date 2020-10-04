@@ -24,7 +24,7 @@ based on:       Switch Theme for Launchbox by Grila
 	<view name="system">
 		
 		<image name="logo">
-			<path>./art/${system.theme}.png</path>
+			<path>./art/${system.theme}.jpg</path>
 		</image>
 		
 		<text name="system_name_1" extra="true">
